@@ -1,0 +1,3369 @@
+fileFormatVersion: 2
+guid: e7a9e16ee75f37041b4131d7ca09f854
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverlapTutotial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f9bebbbe48fb641ac029d3b266c2d0
+      internalID: 1992948748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0904f6623f69e47b50b39e7078730a
+      internalID: 113440639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0c5ac408531a4fa45a517c8a478bb
+      internalID: 756664326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2caa80cf3918d43b6ab59633528219
+      internalID: -1082482185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_4
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26823338dd7224f4db87e70baf6afdfc
+      internalID: 1332906484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_5
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed5c83ec1221ee48a946d0ef60629cf
+      internalID: 305089787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_6
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 7000
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea4029488458542948367c3514e6f7
+      internalID: 623326315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758172853e14cc7498be65cb72c9c793
+      internalID: -1275102006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6f9c38bd28ef24c97aa45639906737
+      internalID: -313815728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa78633b2ec0b4691e864583366f23
+      internalID: -858671402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_10
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf91b40432beb21419d64d69cf9c17f1
+      internalID: -776402570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_11
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d638368d362e4f80cf546bd358bc0
+      internalID: -2131535818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_12
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469bb1df8211f04caf88826a3d2adc7
+      internalID: 1143093318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_13
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 6650
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a14fdab1b42e845867fcdafed37138
+      internalID: 1273761481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96de3ca1a248e2941b7fde4a00f2a7cd
+      internalID: 1315299034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbf2a511f1e6d4c82f59f4239f8aeb
+      internalID: 1882887912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d6e240a3df2f45a3af8bcf6dff529
+      internalID: 1505749513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_17
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82efa953b7c8d0444a93de0f1d831b62
+      internalID: 993535750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_18
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f952681b199f742987e73b6e44d146
+      internalID: -143669469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_19
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ee7da2faad744bb208212e7c91583
+      internalID: -1378295424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_20
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 6300
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab81b6099488524381cb57f695559e8
+      internalID: 1361566160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777cb312805a6142a2fbc3f0cb405fe
+      internalID: 1455652825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1de6e8d5345b646a1fd5cebaae4149
+      internalID: 1953675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_23
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3d0cf036658c45887e0e0ad081af4
+      internalID: -1845350432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_24
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195207a833dadc4cb854c75dfa8caf7
+      internalID: 357043790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_25
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d8aacbd57ee646b3d5ba723319586
+      internalID: -1699034431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_26
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d3d04e79dbe4747aa03c2826a3c4bf
+      internalID: -1683681227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_27
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 5950
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d0bf42028c0348a99509998723945
+      internalID: -224189074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36193ad08091b4dbf76c8ed87477f8
+      internalID: -516988531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c9de2069cfe449b0728a2c22db3f4
+      internalID: 42670731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_30
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcc11f218c4e542abd379061da398c
+      internalID: -419397857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_31
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e59b0acfbd1b484aae649a4daa0ef08
+      internalID: -1087169428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_32
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929e538c529f814389c3fad4603ce19
+      internalID: -1188813434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_33
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ba00aa6a67f5419cb910a61a0d515
+      internalID: 412939250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_34
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 5600
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ad552fdccbae4fb952f69b1e95079
+      internalID: 1576686198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a73faa3170349045bf473cc50aa9ed7
+      internalID: -1721072860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4ba7576c00bc408d5f93dffe8542e
+      internalID: -1070711979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_37
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a9805c4a2cf244804ed497fc3a2c3
+      internalID: -1079609672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_38
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96942c7a4aa02514e9fa96ffec808702
+      internalID: -253845751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_39
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298e60d38a4999439896ca29d0d2fe7
+      internalID: 267501380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_40
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81968e50d8f2c7c40b94e2edbbf95a22
+      internalID: -488030666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_41
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 5250
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb759016e7a6734390006dc77bc5e09
+      internalID: 1067713176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f90030af62f14ca08c101e07a4800
+      internalID: 1402543838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a0c7ff3ca0724a916d0af5220052c
+      internalID: -1601778943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcebfe7080b54d4499366b37a6a0f97
+      internalID: 2145760722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_45
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3897457e32ecf54cb288eea379fc3c4
+      internalID: -1215985950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_46
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1b5069719971458ba6d546e89fbf2
+      internalID: 1053967093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_47
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db20665b5ce464f92dd5d84e2e1b9d
+      internalID: -1904432406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_48
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 4900
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a87870a0aed745a9dcbcdadac132f
+      internalID: -612457560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd090a17e1a3eb4badcc0f42e9e3f41
+      internalID: -1664367664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d50ca2de82133428d3cfd287dcf62a
+      internalID: 612316330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_51
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cfa1269fae0524f963228d6a592691
+      internalID: 1837293289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_52
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0c2f88653d844585fc0ecffd812e5
+      internalID: -630861035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_53
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486ffa1631e14a34e8e1e832691326e1
+      internalID: 73997543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_54
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a99eb7ec3fc449a2ad9bf87732471
+      internalID: 1992780352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_55
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 4550
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ae49f7b3413b4bb22ccd2a4384154
+      internalID: -935402216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf11ff9e9f130047ada64980974d04e
+      internalID: 998426735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf501a297d5d94a99c4253885cf5c4
+      internalID: -918665404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_58
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eba42fb268d624ab4c874d034917e0
+      internalID: 1059870439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_59
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c31381bcf158746804a526e1ab2d7c
+      internalID: -28793057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_60
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df492a20416609d4694105f4b3524f91
+      internalID: -1870114488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_61
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846bf62c68be954d9b760643c0a986a
+      internalID: 321626564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_62
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 4200
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdb0ad8582620b4aaf667b64a9b622b
+      internalID: 169268671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81cf7fb664ab174aa1e3cb90b3aeaca
+      internalID: 1570533910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e648605011a9a0247a7ddcfcc2ee8b09
+      internalID: 652582624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_65
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fda2da60b6fc64e8ff35b8cb7256d3
+      internalID: 26902661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_66
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0952c5ad997c41a97fbe91051f522
+      internalID: 1712872209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_67
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51a744e74a7c44ba3f8a087a81db9e
+      internalID: -1973940207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_68
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be929c17ef0cb524d94e035e36d69f7b
+      internalID: 1975547171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_69
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3850
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3f0955f9a7cb41b1fc67fae0de626
+      internalID: -1359084775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2157c28398eb734787b8e00902847ac
+      internalID: -1117319016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad8b2c8c073484290a1e146cac4d42
+      internalID: -1467370728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_72
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676b954cb0e5354faf38fc506c2f963
+      internalID: -1267540023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_73
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df367c610ddfa6441b6c519dfa934b02
+      internalID: -403104165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_74
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cf80d2a1de27c4da9ac90ae5c1da56
+      internalID: -343230066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_75
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1483d8a738c131429c7ffc604783f46
+      internalID: -1092146994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_76
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3500
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a49908b68a679244ae4c12ae6f6efdc
+      internalID: 311595992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2a4304a53d60409ff5ccb156742c9
+      internalID: 280529294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d577d370c90a114380aae814268884b
+      internalID: 1041595621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5604db1d6b24438f936ac38dba03b
+      internalID: 404279055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_80
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf492fe766a87f240a0a8bdc19f5f14f
+      internalID: -1265171600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_81
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0273110fc063747a9af87ab5be018b
+      internalID: 304226103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_82
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f5f5096ac6734c83f8ad38131212f
+      internalID: 1491695171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_83
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 3150
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeec4e41759456408695abea1c791e3
+      internalID: 2106877286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096fb3b0d8ca1544bfcd77ee43b8479
+      internalID: 87946052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced70401b94da5048b61cf315fc45df3
+      internalID: -941532334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_86
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70600319edbc184a89d4690d0e5b3ff
+      internalID: -1717897025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_87
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27522d417b7bc4e9e1cc5c4017e60b
+      internalID: 1045279417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_88
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd8ab54ca1aab4aa825827c7ca436c
+      internalID: -141421480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_89
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f723993533644db51fe7007cefb46
+      internalID: -1843701732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_90
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2800
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334591d90c390a49b2e38db57253c93
+      internalID: -840488167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30a8b4983c846b40bcd8e2de4f3907e
+      internalID: -69120272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_92
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb781f50e9d30104884743179e185d57
+      internalID: -732521479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_93
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd898b6a23fa0242ada44710372c029
+      internalID: -867825966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_94
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737ba34ae89b2a47b2bcea56fce6012
+      internalID: -1076572835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_95
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d8a9d1e95cc144bd948d1f0ac9d18
+      internalID: 1358546754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_96
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8016ae68a582e942b48ccb19557fb1c
+      internalID: -1622592278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_97
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2450
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac11d20de681e41b3408cd33a1c9b3
+      internalID: 504067318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587537b5d85f9a41a5cb2c9801637cb
+      internalID: 8929238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29825913a69b824687edac7c4fceeaa
+      internalID: -1314067646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_100
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795acc3b0967bf34a84a67e6e9c379f8
+      internalID: -612923409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_101
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e98151572161428e21cf79630bb3c
+      internalID: 446701140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_102
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58dde6c12b9ef4ba6acb4039334db8
+      internalID: 185894307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_103
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57359f54d4a5af0419ee9d96d73d36cf
+      internalID: 425867012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_104
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2100
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1ec736e8516a488e2a8994de04a8e
+      internalID: 863208548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db513f08faaa547987e9212402dead
+      internalID: -1318680267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74bcb51b8de17468db9dad9eda5a15
+      internalID: -1922008545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_107
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29e22dd63de3d498579f41bd862d67
+      internalID: 1662069724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_108
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ee8866fb5bb446916ee1cf428820d
+      internalID: 995219131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_109
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b2b34f17ab9a43a81395dc3f2c22b
+      internalID: 673586735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_110
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f3c6558da46f44aa0fa057039bf801
+      internalID: -147469890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_111
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1750
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33716fef10c7a345846899bda289da9
+      internalID: -2146448670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87199dbe2d6c5d74ca22f5b0b908a2e3
+      internalID: -1743301235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_113
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7f91e2dac8914a91272b04354e546
+      internalID: 1256769809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_114
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da6032ad54812544b06a0ef98a4442d
+      internalID: -1990468422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_115
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433d85a489e3cf4c98eda95672d6ade
+      internalID: -133535402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_116
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43bc93fd1a335043b84b41b333b82d7
+      internalID: -364542507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_117
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409e1dc40a6f5a4687903f867358418
+      internalID: -898165559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_118
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1400
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062fb382198306f4ba3784d78fea11d9
+      internalID: -1786343322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56473770cd60b44a312929730725b3
+      internalID: 2104803258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_120
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059f8264a34899498baf2b125ae3b3e
+      internalID: 1097078276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_121
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b88f34c5b08f042a926b09c526678a
+      internalID: -1793518889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_122
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c269f74d1194424e99591d2f8ffb406
+      internalID: 183110976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_123
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243fe03d9ab2a74ab830ae1de2e5b54
+      internalID: -570754879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_124
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ce383335647c4a858945a6dac726f
+      internalID: -370732920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_125
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1050
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e0039e2ff4bf41820a0b685a7f6a4
+      internalID: 1078058165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba47b39b1b12634bba4d52eee2f1fcc
+      internalID: -869317698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_127
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844f2f03ff2daf46847f04c48484880
+      internalID: -501646542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_128
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92611a941b2348a459ad621b305da15c
+      internalID: 2036675022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_129
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd2989b79f0d9418a891f819c81b18
+      internalID: 471157526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_130
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca243e839935547bdb856af9d58a56
+      internalID: -1989118279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_131
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7f10161f1c2849a56e53f409b7244
+      internalID: -598854676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_132
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 700
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77dc6c84363544981ca7d6129a8043
+      internalID: -71085425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca2292ac0d70404784976f0ffacd5ac
+      internalID: -741279421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_134
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1041b7d8ef6f4f9089b3d3de7c746
+      internalID: 1604644389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_135
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0fac057cde7c242ba2b60397dbddb8
+      internalID: -1513196002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_136
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0a0e344acb8544b93f8837239e6a3
+      internalID: -304562700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_137
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0071115efa1cd449b78d08f29ad53e
+      internalID: 1308483963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_138
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08513f5b2f68a6542a299730845a9d44
+      internalID: -1121496832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_139
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 350
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78481de43672d14f911f37d80092791
+      internalID: 1144454739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c33b26dc14ff4b9c3e528be9c701c
+      internalID: 684404161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_141
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b295def83046d8408134b2cc1cdcffe
+      internalID: -671955204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_142
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb7de3319c0804caed5d1883ad61ee
+      internalID: -1134643183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_143
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441084f6fcb551e4492645232dc6eb1b
+      internalID: -2042076867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_144
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f455bc9d232d468d71b725cd03b36
+      internalID: 1815648150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_145
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fd95af067b914785fc2712558fa12
+      internalID: 632034200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverlapTutotial_146
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 0
+        width: 401
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0c1f4b639c994bb50ebdeb6b781b7
+      internalID: 109596798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OverlapTutotial_82: 1491695171
+      OverlapTutotial_141: -671955204
+      OverlapTutotial_22: 1953675065
+      OverlapTutotial_109: 673586735
+      OverlapTutotial_51: 1837293289
+      OverlapTutotial_77: 280529294
+      OverlapTutotial_87: 1045279417
+      OverlapTutotial_105: -1318680267
+      OverlapTutotial_94: -1076572835
+      OverlapTutotial_66: 1712872209
+      OverlapTutotial_43: -1601778943
+      OverlapTutotial_142: -1134643183
+      OverlapTutotial_11: -2131535818
+      OverlapTutotial_25: -1699034431
+      OverlapTutotial_13: 1273761481
+      OverlapTutotial_89: -1843701732
+      OverlapTutotial_140: 684404161
+      OverlapTutotial_63: 1570533910
+      OverlapTutotial_108: 995219131
+      OverlapTutotial_99: -1314067646
+      OverlapTutotial_18: -143669469
+      OverlapTutotial_10: -776402570
+      OverlapTutotial_50: 612316330
+      OverlapTutotial_91: -69120272
+      OverlapTutotial_17: 993535750
+      OverlapTutotial_32: -1188813434
+      OverlapTutotial_15: 1882887912
+      OverlapTutotial_40: -488030666
+      OverlapTutotial_14: 1315299034
+      OverlapTutotial_93: -867825966
+      OverlapTutotial_110: -147469890
+      OverlapTutotial_122: 183110976
+      OverlapTutotial_6: 623326315
+      OverlapTutotial_84: 87946052
+      OverlapTutotial_76: 311595992
+      OverlapTutotial_55: -935402216
+      OverlapTutotial_73: -403104165
+      OverlapTutotial_1: 113440639
+      OverlapTutotial_7: -1275102006
+      OverlapTutotial_21: 1455652825
+      OverlapTutotial_39: 267501380
+      OverlapTutotial_135: -1513196002
+      OverlapTutotial_133: -741279421
+      OverlapTutotial_28: -516988531
+      OverlapTutotial_64: 652582624
+      OverlapTutotial_117: -898165559
+      OverlapTutotial_35: -1721072860
+      OverlapTutotial_29: 42670731
+      OverlapTutotial_56: 998426735
+      OverlapTutotial_123: -570754879
+      OverlapTutotial_8: -313815728
+      OverlapTutotial_54: 1992780352
+      OverlapTutotial_121: -1793518889
+      OverlapTutotial_41: 1067713176
+      OverlapTutotial_20: 1361566160
+      OverlapTutotial_33: 412939250
+      OverlapTutotial_62: 169268671
+      OverlapTutotial_115: -133535402
+      OverlapTutotial_90: -840488167
+      OverlapTutotial_61: 321626564
+      OverlapTutotial_59: -28793057
+      OverlapTutotial_45: -1215985950
+      OverlapTutotial_4: 1332906484
+      OverlapTutotial_47: -1904432406
+      OverlapTutotial_86: -1717897025
+      OverlapTutotial_2: 756664326
+      OverlapTutotial_30: -419397857
+      OverlapTutotial_104: 863208548
+      OverlapTutotial_112: -1743301235
+      OverlapTutotial_124: -370732920
+      OverlapTutotial_132: -71085425
+      OverlapTutotial_27: -224189074
+      OverlapTutotial_72: -1267540023
+      OverlapTutotial_69: -1359084775
+      OverlapTutotial_31: -1087169428
+      OverlapTutotial_44: 2145760722
+      OverlapTutotial_80: -1265171600
+      OverlapTutotial_95: 1358546754
+      OverlapTutotial_52: -630861035
+      OverlapTutotial_83: 2106877286
+      OverlapTutotial_146: 109596798
+      OverlapTutotial_130: -1989118279
+      OverlapTutotial_0: 1992948748
+      OverlapTutotial_125: 1078058165
+      OverlapTutotial_127: -501646542
+      OverlapTutotial_23: -1845350432
+      OverlapTutotial_65: 26902661
+      OverlapTutotial_106: -1922008545
+      OverlapTutotial_143: -2042076867
+      OverlapTutotial_16: 1505749513
+      OverlapTutotial_68: 1975547171
+      OverlapTutotial_9: -858671402
+      OverlapTutotial_12: 1143093318
+      OverlapTutotial_100: -612923409
+      OverlapTutotial_57: -918665404
+      OverlapTutotial_60: -1870114488
+      OverlapTutotial_34: 1576686198
+      OverlapTutotial_74: -343230066
+      OverlapTutotial_134: 1604644389
+      OverlapTutotial_98: 8929238
+      OverlapTutotial_139: 1144454739
+      OverlapTutotial_107: 1662069724
+      OverlapTutotial_37: -1079609672
+      OverlapTutotial_101: 446701140
+      OverlapTutotial_85: -941532334
+      OverlapTutotial_113: 1256769809
+      OverlapTutotial_42: 1402543838
+      OverlapTutotial_48: -612457560
+      OverlapTutotial_58: 1059870439
+      OverlapTutotial_24: 357043790
+      OverlapTutotial_137: 1308483963
+      OverlapTutotial_88: -141421480
+      OverlapTutotial_102: 185894307
+      OverlapTutotial_26: -1683681227
+      OverlapTutotial_136: -304562700
+      OverlapTutotial_138: -1121496832
+      OverlapTutotial_81: 304226103
+      OverlapTutotial_5: 305089787
+      OverlapTutotial_53: 73997543
+      OverlapTutotial_3: -1082482185
+      OverlapTutotial_70: -1117319016
+      OverlapTutotial_103: 425867012
+      OverlapTutotial_120: 1097078276
+      OverlapTutotial_19: -1378295424
+      OverlapTutotial_46: 1053967093
+      OverlapTutotial_111: -2146448670
+      OverlapTutotial_116: -364542507
+      OverlapTutotial_49: -1664367664
+      OverlapTutotial_119: 2104803258
+      OverlapTutotial_118: -1786343322
+      OverlapTutotial_129: 471157526
+      OverlapTutotial_71: -1467370728
+      OverlapTutotial_36: -1070711979
+      OverlapTutotial_145: 632034200
+      OverlapTutotial_38: -253845751
+      OverlapTutotial_92: -732521479
+      OverlapTutotial_78: 1041595621
+      OverlapTutotial_67: -1973940207
+      OverlapTutotial_144: 1815648150
+      OverlapTutotial_75: -1092146994
+      OverlapTutotial_131: -598854676
+      OverlapTutotial_128: 2036675022
+      OverlapTutotial_97: 504067318
+      OverlapTutotial_96: -1622592278
+      OverlapTutotial_79: 404279055
+      OverlapTutotial_114: -1990468422
+      OverlapTutotial_126: -869317698
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
